@@ -1,0 +1,8 @@
+algorand:
+  algodApiAddress: localhost
+  algodApiPort: 4001
+  algodApiToken: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+ipfs:
+  host: localhost
+  port: 5001
